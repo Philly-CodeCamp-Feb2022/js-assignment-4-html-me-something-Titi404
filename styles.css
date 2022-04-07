@@ -1,1 +1,21 @@
-/* Write your CSS here! */
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+div {
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+#linky {
+  background-color: rgb(170, 234, 253);
+  
+}
+
+#titi {
+
+  border-style: dotted; color: rgb(4, 0, 255););
+  }
